@@ -1,0 +1,23 @@
+ptags:
+  - slug: php
+    name: PHP
+  - name: Design
+    slug: design
+  - slug: react
+    name: React
+  - slug: react-native
+    name: React Native
+  - slug: nodejs
+    name: NodeJS
+  - slug: mongodb
+    name: MongoDB
+  - slug: firebase
+    name: Firebase
+  - slug: aws
+    name: AWS
+  - name: DynamoDB
+    slug: dynamodb
+  - slug: serverless-functions
+    name: Serverless
+  - slug: sql
+    name: SQL

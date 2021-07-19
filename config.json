@@ -1,0 +1,14 @@
+{
+  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
+  "site_title": "Hey, I'm John 👋",
+  "site_description": "Hey, I'm John 👋",
+  "site_keywords": [
+    {
+      "keyword": "front-end"
+    }
+  ],
+  "posts_per_page": 5,
+  "twitter_account": "@johndoe",
+  "github_account": "johndoe",
+  "mail": "johndoe@gmail.com"
+}
